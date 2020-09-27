@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442587389903",
+    "firebase_url": "https://dealflut.firebaseio.com",
+    "project_id": "dealflut",
+    "storage_bucket": "dealflut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442587389903:android:2bee38a1794c1ebf693cba",
+        "android_client_info": {
+          "package_name": "com.askai.dealiciousadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442587389903-3uced26et1ibkrdl5ea72s98eqqbebfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLsWHCEnoF5ym56NCdk1Kvn1H0KkTB428"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442587389903-3uced26et1ibkrdl5ea72s98eqqbebfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
